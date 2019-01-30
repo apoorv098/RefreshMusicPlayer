@@ -12,3 +12,14 @@ A basic favorite management functionality is also part of this player.
 
 Screenshots :
 
+![Screenshot](https://github.com/devendrakushwah/Refresh-Music-Player/blob/master/screens/screen.jpg)
+## Requirements :
+1. Android 5.0
+2. Music on your device
+
+## Open source APIs Used :
+1. [Cleverroad Visualizer](https://github.com/Cleveroad/WaveInApp)
+2. [Android Equalizer](https://github.com/mosamabinomar/AndroidEqualizer)
+
+## License
+None
